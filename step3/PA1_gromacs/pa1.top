@@ -1,0 +1,19 @@
+#include "./charmm36.ff/forcefield.itp"
+
+; additional params for the molecule
+
+; Created by cgenff_charmm2gmx.py
+
+#include "./PA1_gmx.itp"
+
+
+; Include topology for ions
+
+
+[ system ]
+; Name
+two phase system
+
+[ molecules ]
+; Molecule      nmols
+PA1     1
