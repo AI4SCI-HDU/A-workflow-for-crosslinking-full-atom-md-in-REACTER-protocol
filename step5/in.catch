@@ -1,0 +1,22 @@
+units real
+
+boundary p p p
+
+atom_style full
+
+neighbor 1.0 bin
+neigh_modify  every 1 delay 1
+timestep    1
+
+pair_style lj/charmm/coul/charmm 8.0 10.0 7.0 9.0
+
+angle_style charmm
+
+bond_style harmonic
+
+dihedral_style fourier
+
+improper_style harmonic
+
+read_data pre.data
+write_coeff pa.coeff
