@@ -1,0 +1,18 @@
+REMARK FOR GROMPP
+ATOM      1 N1   PIP     1       0.000  -1.467  -0.176  1.00  0.00      XXXX
+ATOM      2 H2   PIP     1       0.000  -1.613  -1.194  1.00  0.00      XXXX
+ATOM      3 N3   PIP     1      -0.000   1.467   0.176  1.00  0.00      XXXX
+ATOM      4 H4   PIP     1      -0.000   1.613   1.194  1.00  0.00      XXXX
+ATOM      5 C5   PIP     1      -1.232  -0.736   0.236  1.00  0.00      XXXX
+ATOM      6 H6   PIP     1      -1.276  -0.761   1.333  1.00  0.00      XXXX
+ATOM      7 H7   PIP     1      -2.104  -1.276  -0.152  1.00  0.00      XXXX
+ATOM      8 C8   PIP     1      -1.232   0.736  -0.236  1.00  0.00      XXXX
+ATOM      9 H9   PIP     1      -2.104   1.276   0.152  1.00  0.00      XXXX
+ATOM     10 H10  PIP     1      -1.276   0.761  -1.333  1.00  0.00      XXXX
+ATOM     11 C11  PIP     1       1.232   0.736  -0.236  1.00  0.00      XXXX
+ATOM     12 H12  PIP     1       2.104   1.276   0.152  1.00  0.00      XXXX
+ATOM     13 H13  PIP     1       1.276   0.761  -1.333  1.00  0.00      XXXX
+ATOM     14 C14  PIP     1       1.232  -0.736   0.236  1.00  0.00      XXXX
+ATOM     15 H15  PIP     1       1.276  -0.761   1.333  1.00  0.00      XXXX
+ATOM     16 H16  PIP     1       2.104  -1.276  -0.152  1.00  0.00      XXXX
+END
